@@ -1,0 +1,104 @@
+
+.nav {
+    
+    margin-bottom: 0em;
+    margin-left: 0em;
+    margin-right: 0px;
+    height: 30px
+
+}
+
+.granDiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.search {
+    
+    margin-bottom: 2em;
+    margin-left: 2em;
+    margin-right: 0px;
+    border: 2em solid transparent;
+    height: 100px;
+    /* position: fixed; */
+
+
+}
+
+.input{
+    border-radius: 25px;
+    padding: 10px;
+    font-size: 1.5em;
+    margin: 2px;
+    
+
+}
+.button{
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 1.5em;
+    margin: 2px;
+    border-color: 100em solid black
+
+}
+
+.navButton{
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 1.5em;
+    margin: 2px;
+    border-color: 100em solid black;
+    
+}
+
+
+.image {
+    
+    margin-left: 3em;    
+    border: solid 5px;
+    border-color: rgba(0, 36, 133, 0.869);
+    border-radius: 0%;
+    width: 120px; 
+    height: 120px;
+}
+
+.cardButton {
+    padding: 2px;
+    /* margin-left: 2em;
+    margin-right: 0em; */
+    border-radius: 5px;
+    font-size: 1em;
+    float: right;
+}
+
+.divGuardador {
+    width: flexible;
+    height: auto; 
+}
+
+.listCards {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 3em;
+    display: flex;
+    flex-direction: row;
+}
+
+.listItems {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.navLink {
+    padding:  8px;
+    background-color: solid transparent;
+    border-radius: 6px;
+    margin-right: 10px;
+    /* position: fixed; */
+    float: right;
+
+}
